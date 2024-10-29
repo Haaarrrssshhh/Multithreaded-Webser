@@ -1,0 +1,2 @@
+telnet localhost 8888
+GET /index.html HTTP/1.0

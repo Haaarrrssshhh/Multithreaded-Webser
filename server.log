@@ -1,0 +1,513 @@
+[Mon Oct 28 19:51:34 2024] New connection established
+[Mon Oct 28 19:51:34 2024] New connection established
+[Mon Oct 28 19:51:34 2024] Connection closed for client
+[Mon Oct 28 19:51:36 2024] Connection closed for client
+[Mon Oct 28 19:51:36 2024] New connection established
+[Mon Oct 28 19:51:37 2024] New connection established
+[Mon Oct 28 19:51:42 2024] Connection closed for client
+[Mon Oct 28 19:51:46 2024] New connection established
+[Mon Oct 28 19:51:50 2024] Connection closed for client
+[Mon Oct 28 19:51:50 2024] New connection established
+[Mon Oct 28 19:51:50 2024] Connection closed for client
+[Mon Oct 28 19:51:50 2024] New connection established
+[Mon Oct 28 19:51:50 2024] Connection closed for client
+[Mon Oct 28 19:51:50 2024] New connection established
+[Mon Oct 28 19:51:50 2024] Connection closed for client
+[Mon Oct 28 19:51:50 2024] Connection closed for client
+[Mon Oct 28 19:51:50 2024] New connection established
+[Mon Oct 28 19:51:50 2024] Connection closed for client
+[Mon Oct 28 19:51:50 2024] New connection established
+[Mon Oct 28 19:51:50 2024] Connection closed for client
+[Mon Oct 28 19:51:50 2024] New connection established
+[Mon Oct 28 19:51:50 2024] Connection closed for client
+[Mon Oct 28 19:51:51 2024] New connection established
+[Mon Oct 28 19:51:51 2024] Connection closed for client
+[Mon Oct 28 19:51:51 2024] New connection established
+[Mon Oct 28 19:51:51 2024] Connection closed for client
+[Mon Oct 28 19:51:51 2024] New connection established
+[Mon Oct 28 19:51:51 2024] New connection established
+[Mon Oct 28 19:51:51 2024] Connection closed for client
+[Mon Oct 28 19:51:51 2024] Connection closed for client
+[Mon Oct 28 19:51:51 2024] New connection established
+[Mon Oct 28 19:51:51 2024] Connection closed for client
+[Mon Oct 28 19:56:41 2024] New connection established
+[Mon Oct 28 19:56:41 2024] New connection established
+[Mon Oct 28 19:56:41 2024] Connection closed for client
+[Mon Oct 28 19:58:06 2024] New connection established
+[Mon Oct 28 19:58:06 2024] New connection established
+[Mon Oct 28 19:59:17 2024] New connection established
+[Mon Oct 28 19:59:17 2024] New connection established
+[Mon Oct 28 19:59:17 2024] Connection closed for client
+[Mon Oct 28 19:59:24 2024] Connection closed for client
+[Mon Oct 28 19:59:24 2024] New connection established
+[Mon Oct 28 19:59:24 2024] New connection established
+[Mon Oct 28 19:59:24 2024] New connection established
+[Mon Oct 28 19:59:24 2024] Connection closed for client
+[Mon Oct 28 19:59:24 2024] Connection closed for client
+[Mon Oct 28 19:59:24 2024] Connection closed for client
+[Mon Oct 28 19:59:24 2024] New connection established
+[Mon Oct 28 19:59:24 2024] Connection closed for client
+[Mon Oct 28 19:59:24 2024] New connection established
+[Mon Oct 28 19:59:24 2024] Connection closed for client
+[Mon Oct 28 19:59:24 2024] New connection established
+[Mon Oct 28 19:59:24 2024] Connection closed for client
+[Mon Oct 28 19:59:24 2024] New connection established
+[Mon Oct 28 19:59:24 2024] Connection closed for client
+[Mon Oct 28 19:59:24 2024] New connection established
+[Mon Oct 28 19:59:24 2024] Connection closed for client
+[Mon Oct 28 19:59:26 2024] New connection established
+[Mon Oct 28 19:59:26 2024] Connection closed for client
+[Mon Oct 28 19:59:26 2024] New connection established
+[Mon Oct 28 19:59:26 2024] New connection established
+[Mon Oct 28 19:59:51 2024] New connection established
+[Mon Oct 28 19:59:51 2024] Connection closed for client
+[Mon Oct 28 19:59:51 2024] Connection closed for client
+[Mon Oct 28 19:59:51 2024] Connection closed for client
+[Mon Oct 28 19:59:51 2024] New connection established
+[Mon Oct 28 19:59:51 2024] Connection closed for client
+[Mon Oct 28 20:01:06 2024] New connection established
+[Mon Oct 28 20:01:06 2024] New connection established
+[Mon Oct 28 20:01:06 2024] Connection closed for client
+[Mon Oct 28 20:01:12 2024] Connection closed for client
+[Mon Oct 28 20:01:12 2024] New connection established
+[Mon Oct 28 20:04:31 2024] New connection established
+[Mon Oct 28 20:04:31 2024] New connection established
+[Mon Oct 28 20:04:31 2024] Request: Method=GET, Path=/
+[Mon Oct 28 20:04:31 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/index.html
+[Mon Oct 28 20:04:31 2024] Sending headers:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Connection: close
+Content-Length: 54847
+Date: Tue, 29 Oct 2024 03:04:31 GMT
+
+
+[Mon Oct 28 20:04:31 2024] Connection closed for client
+[Mon Oct 28 20:04:31 2024] New connection established
+[Mon Oct 28 20:04:31 2024] Request: Method=GET, Path=/media/scuedu/style-assets/stylesheets/f.css
+[Mon Oct 28 20:04:31 2024] New connection established
+[Mon Oct 28 20:04:31 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/media/scuedu/style-assets/stylesheets/f.css
+[Mon Oct 28 20:04:31 2024] Request: Method=GET, Path=/assets/public/scu.js
+[Mon Oct 28 20:04:31 2024] Request: Method=GET, Path=/index.html
+[Mon Oct 28 20:04:31 2024] Sending headers:
+HTTP/1.0 200 OK
+Content-Type: text/css
+Connection: close
+Content-Length: 4926
+Date: Tue, 29 Oct 2024 03:04:31 GMT
+
+
+[Mon Oct 28 20:04:31 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/assets/public/scu.js
+[Mon Oct 28 20:04:31 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/index.html
+[Mon Oct 28 20:04:31 2024] Sending headers:
+HTTP/1.0 200 OK
+Content-Type: application/javascript
+Connection: close
+Content-Length: 657587
+Date: Tue, 29 Oct 2024 03:04:31 GMT
+
+
+[Mon Oct 28 20:04:31 2024] Sending headers:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Connection: close
+Content-Length: 54847
+Date: Tue, 29 Oct 2024 03:04:31 GMT
+
+
+[Mon Oct 28 20:04:31 2024] Connection closed for client
+[Mon Oct 28 20:04:31 2024] Connection closed for client
+[Mon Oct 28 20:04:31 2024] New connection established
+[Mon Oct 28 20:04:31 2024] Request: Method=GET, Path=/media/scuedu/style-assets/javascript/lazyloading.js
+[Mon Oct 28 20:04:31 2024] Connection closed for client
+[Mon Oct 28 20:04:31 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/media/scuedu/style-assets/javascript/lazyloading.js
+[Mon Oct 28 20:04:31 2024] Sending headers:
+HTTP/1.0 200 OK
+Content-Type: application/javascript
+Connection: close
+Content-Length: 3394
+Date: Tue, 29 Oct 2024 03:04:31 GMT
+
+
+[Mon Oct 28 20:04:31 2024] New connection established
+[Mon Oct 28 20:04:31 2024] Connection closed for client
+[Mon Oct 28 20:04:31 2024] Request: Method=GET, Path=/media/scuedu/style-assets/stylesheets/preloading.css
+[Mon Oct 28 20:04:31 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/media/scuedu/style-assets/stylesheets/preloading.css
+[Mon Oct 28 20:04:31 2024] Sending headers:
+HTTP/1.0 200 OK
+Content-Type: text/css
+Connection: close
+Content-Length: 717
+Date: Tue, 29 Oct 2024 03:04:31 GMT
+
+
+[Mon Oct 28 20:04:31 2024] New connection established
+[Mon Oct 28 20:04:31 2024] Connection closed for client
+[Mon Oct 28 20:04:31 2024] Request: Method=GET, Path=/media/institutional-pages/giving/images/campaign-banner.png
+[Mon Oct 28 20:04:31 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/media/institutional-pages/giving/images/campaign-banner.png
+[Mon Oct 28 20:04:31 2024] Sending headers:
+HTTP/1.0 200 OK
+Content-Type: image/png
+Connection: close
+Content-Length: 26150
+Date: Tue, 29 Oct 2024 03:04:31 GMT
+
+
+[Mon Oct 28 20:04:31 2024] Connection closed for client
+[Mon Oct 28 20:04:31 2024] New connection established
+[Mon Oct 28 20:04:31 2024] Request: Method=GET, Path=/assets/public/scu.js.map
+[Mon Oct 28 20:04:31 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/500.html
+[Mon Oct 28 20:04:31 2024] Sending headers:
+HTTP/1.0 500 Internal Server Error
+Content-Type: text/html
+Connection: close
+Content-Length: 348
+Date: Tue, 29 Oct 2024 03:04:31 GMT
+
+
+[Mon Oct 28 20:04:31 2024] Connection closed for client
+[Mon Oct 28 20:04:32 2024] New connection established
+[Mon Oct 28 20:04:32 2024] Request: Method=GET, Path=/assets/images/favicons/manifest.json
+[Mon Oct 28 20:04:32 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/assets/images/favicons/manifest.json
+[Mon Oct 28 20:04:32 2024] Sending headers:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Connection: close
+Content-Length: 204
+Date: Tue, 29 Oct 2024 03:04:32 GMT
+
+
+[Mon Oct 28 20:04:32 2024] Connection closed for client
+[Mon Oct 28 20:04:33 2024] New connection established
+[Mon Oct 28 20:04:33 2024] New connection established
+[Mon Oct 28 20:04:33 2024] Request: Method=GET, Path=/index.html
+[Mon Oct 28 20:04:33 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/index.html
+[Mon Oct 28 20:04:33 2024] Sending headers:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Connection: close
+Content-Length: 54847
+Date: Tue, 29 Oct 2024 03:04:33 GMT
+
+
+[Mon Oct 28 20:04:33 2024] Connection closed for client
+[Mon Oct 28 20:04:34 2024] New connection established
+[Mon Oct 28 20:04:34 2024] Request: Method=GET, Path=/media/scuedu/style-assets/stylesheets/f.css
+[Mon Oct 28 20:04:34 2024] New connection established
+[Mon Oct 28 20:04:34 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/media/scuedu/style-assets/stylesheets/f.css
+[Mon Oct 28 20:04:34 2024] Request: Method=GET, Path=/index.html
+[Mon Oct 28 20:04:34 2024] Request: Method=GET, Path=/assets/public/scu.js
+[Mon Oct 28 20:04:34 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/index.html
+[Mon Oct 28 20:04:34 2024] Sending headers:
+HTTP/1.0 200 OK
+Content-Type: text/css
+Connection: close
+Content-Length: 4926
+Date: Tue, 29 Oct 2024 03:04:34 GMT
+
+
+[Mon Oct 28 20:04:34 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/assets/public/scu.js
+[Mon Oct 28 20:04:34 2024] Sending headers:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Connection: close
+Content-Length: 54847
+Date: Tue, 29 Oct 2024 03:04:34 GMT
+
+
+[Mon Oct 28 20:04:34 2024] Sending headers:
+HTTP/1.0 200 OK
+Content-Type: application/javascript
+Connection: close
+Content-Length: 657587
+Date: Tue, 29 Oct 2024 03:04:34 GMT
+
+
+[Mon Oct 28 20:04:34 2024] Connection closed for client
+[Mon Oct 28 20:04:34 2024] Connection closed for client
+[Mon Oct 28 20:04:34 2024] Connection closed for client
+[Mon Oct 28 20:04:34 2024] New connection established
+[Mon Oct 28 20:04:34 2024] Request: Method=GET, Path=/media/scuedu/style-assets/javascript/lazyloading.js
+[Mon Oct 28 20:04:34 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/media/scuedu/style-assets/javascript/lazyloading.js
+[Mon Oct 28 20:04:34 2024] Sending headers:
+HTTP/1.0 200 OK
+Content-Type: application/javascript
+Connection: close
+Content-Length: 3394
+Date: Tue, 29 Oct 2024 03:04:34 GMT
+
+
+[Mon Oct 28 20:04:34 2024] New connection established
+[Mon Oct 28 20:04:34 2024] Connection closed for client
+[Mon Oct 28 20:04:34 2024] Request: Method=GET, Path=/media/scuedu/style-assets/stylesheets/preloading.css
+[Mon Oct 28 20:04:34 2024] New connection established
+[Mon Oct 28 20:04:34 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/media/scuedu/style-assets/stylesheets/preloading.css
+[Mon Oct 28 20:04:34 2024] Request: Method=GET, Path=/media/institutional-pages/giving/images/campaign-banner.png
+[Mon Oct 28 20:04:34 2024] Sending headers:
+HTTP/1.0 200 OK
+Content-Type: text/css
+Connection: close
+Content-Length: 717
+Date: Tue, 29 Oct 2024 03:04:34 GMT
+
+
+[Mon Oct 28 20:04:34 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/media/institutional-pages/giving/images/campaign-banner.png
+[Mon Oct 28 20:04:34 2024] Sending headers:
+HTTP/1.0 200 OK
+Content-Type: image/png
+Connection: close
+Content-Length: 26150
+Date: Tue, 29 Oct 2024 03:04:34 GMT
+
+
+[Mon Oct 28 20:04:34 2024] Connection closed for client
+[Mon Oct 28 20:04:34 2024] Connection closed for client
+[Mon Oct 28 20:04:34 2024] New connection established
+[Mon Oct 28 20:04:34 2024] Request: Method=GET, Path=/media/offices/umc/web-design/crowd-pic-NEW_0001_20211203_Soccer_Fans_4446.jpg
+[Mon Oct 28 20:04:34 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/media/offices/umc/web-design/crowd-pic-NEW_0001_20211203_Soccer_Fans_4446.jpg
+[Mon Oct 28 20:04:34 2024] Sending headers:
+HTTP/1.0 200 OK
+Content-Type: image/jpeg
+Connection: close
+Content-Length: 132900
+Date: Tue, 29 Oct 2024 03:04:34 GMT
+
+
+[Mon Oct 28 20:04:34 2024] Connection closed for client
+[Mon Oct 28 20:04:34 2024] New connection established
+[Mon Oct 28 20:04:34 2024] Request: Method=GET, Path=/assets/images/favicons/manifest.json
+[Mon Oct 28 20:04:34 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/assets/images/favicons/manifest.json
+[Mon Oct 28 20:04:34 2024] Sending headers:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Connection: close
+Content-Length: 204
+Date: Tue, 29 Oct 2024 03:04:34 GMT
+
+
+[Mon Oct 28 20:04:34 2024] Connection closed for client
+[Mon Oct 28 20:04:36 2024] New connection established
+[Mon Oct 28 20:04:36 2024] New connection established
+[Mon Oct 28 20:04:36 2024] Request: Method=GET, Path=/sample.txt
+[Mon Oct 28 20:04:36 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/500.html
+[Mon Oct 28 20:04:36 2024] Sending headers:
+HTTP/1.0 500 Internal Server Error
+Content-Type: text/html
+Connection: close
+Content-Length: 348
+Date: Tue, 29 Oct 2024 03:04:36 GMT
+
+
+[Mon Oct 28 20:04:36 2024] Connection closed for client
+[Mon Oct 28 20:04:37 2024] Request: Method=GET, Path=/assets/image.png
+[Mon Oct 28 20:04:37 2024] New connection established
+[Mon Oct 28 20:04:37 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/assets/image.png
+[Mon Oct 28 20:04:37 2024] Sending headers:
+HTTP/1.0 200 OK
+Content-Type: image/png
+Connection: close
+Content-Length: 19303
+Date: Tue, 29 Oct 2024 03:04:37 GMT
+
+
+[Mon Oct 28 20:04:37 2024] Connection closed for client
+[Mon Oct 28 20:05:55 2024] Request: Method=, Path=
+[Mon Oct 28 20:05:55 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/400.html
+[Mon Oct 28 20:05:55 2024] Sending headers:
+HTTP/1.0 400 Bad Request
+Content-Type: text/html
+Connection: close
+Content-Length: 179
+Date: Tue, 29 Oct 2024 03:05:55 GMT
+
+
+[Mon Oct 28 20:08:23 2024] New connection established
+[Mon Oct 28 20:08:23 2024] Request: Method=GET, Path=/info.html
+[Mon Oct 28 20:08:23 2024] New connection established
+[Mon Oct 28 20:08:23 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/500.html
+[Mon Oct 28 20:08:23 2024] Sending headers:
+HTTP/1.0 500 Internal Server Error
+Content-Type: text/html
+Connection: close
+Content-Length: 348
+Date: Tue, 29 Oct 2024 03:08:23 GMT
+
+
+[Mon Oct 28 20:08:23 2024] Connection closed for client
+[Mon Oct 28 20:08:24 2024] Request: Method=GET, Path=/info.html
+[Mon Oct 28 20:08:24 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/500.html
+[Mon Oct 28 20:08:24 2024] Sending headers:
+HTTP/1.0 500 Internal Server Error
+Content-Type: text/html
+Connection: close
+Content-Length: 348
+Date: Tue, 29 Oct 2024 03:08:24 GMT
+
+
+[Mon Oct 28 20:08:24 2024] Connection closed for client
+[Mon Oct 28 20:08:24 2024] New connection established
+[Mon Oct 28 20:08:36 2024] Request: Method=GET, Path=/test.html
+[Mon Oct 28 20:08:36 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/test.html
+[Mon Oct 28 20:08:36 2024] Sending headers:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Connection: close
+Content-Length: 260
+Date: Tue, 29 Oct 2024 03:08:36 GMT
+
+
+[Mon Oct 28 20:08:36 2024] New connection established
+[Mon Oct 28 20:08:36 2024] Connection closed for client
+[Mon Oct 28 20:08:36 2024] Request: Method=GET, Path=/assets/image.png
+[Mon Oct 28 20:08:36 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/assets/image.png
+[Mon Oct 28 20:08:36 2024] Sending headers:
+HTTP/1.0 200 OK
+Content-Type: image/png
+Connection: close
+Content-Length: 19303
+Date: Tue, 29 Oct 2024 03:08:36 GMT
+
+
+[Mon Oct 28 20:08:36 2024] Connection closed for client
+[Mon Oct 28 20:09:22 2024] New connection established
+[Mon Oct 28 20:09:22 2024] Request: Method=GET, Path=/assets/image.png
+[Mon Oct 28 20:09:22 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/assets/image.png
+[Mon Oct 28 20:09:22 2024] New connection established
+[Mon Oct 28 20:09:22 2024] Sending headers:
+HTTP/1.0 200 OK
+Content-Type: image/png
+Connection: close
+Content-Length: 19303
+Date: Tue, 29 Oct 2024 03:09:22 GMT
+
+
+[Mon Oct 28 20:09:22 2024] Connection closed for client
+[Mon Oct 28 20:10:16 2024] Request: Method=GET, Path=/sample.txt
+[Mon Oct 28 20:10:16 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/500.html
+[Mon Oct 28 20:10:16 2024] Sending headers:
+HTTP/1.0 500 Internal Server Error
+Content-Type: text/html
+Connection: close
+Content-Length: 348
+Date: Tue, 29 Oct 2024 03:10:16 GMT
+
+
+[Mon Oct 28 20:10:16 2024] Connection closed for client
+[Mon Oct 28 20:10:16 2024] New connection established
+[Mon Oct 28 20:10:35 2024] Request: Method=GET, Path=/sample.txt
+[Mon Oct 28 20:10:35 2024] New connection established
+[Mon Oct 28 20:10:35 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/sample.txt
+[Mon Oct 28 20:10:35 2024] Sending headers:
+HTTP/1.0 200 OK
+Content-Type: text/plain
+Connection: close
+Content-Length: 27
+Date: Tue, 29 Oct 2024 03:10:35 GMT
+
+
+[Mon Oct 28 20:10:35 2024] Connection closed for client
+[Mon Oct 28 20:11:05 2024] Request: Method=GET, Path=/sample2.txt
+[Mon Oct 28 20:11:05 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/500.html
+[Mon Oct 28 20:11:05 2024] Sending headers:
+HTTP/1.0 500 Internal Server Error
+Content-Type: text/html
+Connection: close
+Content-Length: 348
+Date: Tue, 29 Oct 2024 03:11:05 GMT
+
+
+[Mon Oct 28 20:11:05 2024] New connection established
+[Mon Oct 28 20:11:05 2024] Connection closed for client
+[Mon Oct 28 20:11:22 2024] Request: Method=GET, Path=/invalid-path
+[Mon Oct 28 20:11:22 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/500.html
+[Mon Oct 28 20:11:22 2024] New connection established
+[Mon Oct 28 20:11:22 2024] Sending headers:
+HTTP/1.0 500 Internal Server Error
+Content-Type: text/html
+Connection: close
+Content-Length: 348
+Date: Tue, 29 Oct 2024 03:11:22 GMT
+
+
+[Mon Oct 28 20:11:22 2024] Connection closed for client
+[Mon Oct 28 20:11:25 2024] Request: Method=GET, Path=/asas
+[Mon Oct 28 20:11:25 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/500.html
+[Mon Oct 28 20:11:25 2024] Sending headers:
+HTTP/1.0 500 Internal Server Error
+Content-Type: text/html
+Connection: close
+Content-Length: 348
+Date: Tue, 29 Oct 2024 03:11:25 GMT
+
+
+[Mon Oct 28 20:11:25 2024] Connection closed for client
+[Mon Oct 28 20:11:25 2024] New connection established
+[Mon Oct 28 20:12:44 2024] Request: Method=, Path=
+[Mon Oct 28 20:12:44 2024] Serving file: /users/harshzota/Desktop/Studies/DS/PA1/webserver_files/400.html
+[Mon Oct 28 20:12:44 2024] Sending headers:
+HTTP/1.0 400 Bad Request
+Content-Type: text/html
+Connection: close
+Content-Length: 179
+Date: Tue, 29 Oct 2024 03:12:44 GMT
+
+
+[Mon Oct 28 20:14:43 2024] New connection established
+[Mon Oct 28 20:14:43 2024] New connection established
+[Mon Oct 28 20:14:43 2024] Request: Method=GET, Path=/assets/image.png
+[Mon Oct 28 20:14:43 2024] Error: 403 Forbidden for path: /assets/image.png
+[Mon Oct 28 20:14:43 2024] Sending headers:
+HTTP/1.0 403 Forbidden
+Content-Type: text/html
+Connection: close
+Content-Length: 195
+Date: Tue, 29 Oct 2024 03:14:43 GMT
+
+
+[Mon Oct 28 20:14:43 2024] Connection closed for client
+[Mon Oct 28 20:15:09 2024] Request: Method=GET, Path=/aassa
+[Mon Oct 28 20:15:09 2024] Error: 404 Not Found for path: /aassa
+[Mon Oct 28 20:15:09 2024] New connection established
+[Mon Oct 28 20:15:09 2024] Sending headers:
+HTTP/1.0 404 Not Found
+Content-Type: text/html
+Connection: close
+Content-Length: 196
+Date: Tue, 29 Oct 2024 03:15:09 GMT
+
+
+[Mon Oct 28 20:15:09 2024] Connection closed for client
+[Mon Oct 28 20:15:42 2024] Request: Method=POST, Path=/invalid-path
+[Mon Oct 28 20:15:42 2024] Error: 400 Bad Request for path: /invalid-path
+[Mon Oct 28 20:15:42 2024] Sending headers:
+HTTP/1.0 400 Bad Request
+Content-Type: text/html
+Connection: close
+Content-Length: 179
+Date: Tue, 29 Oct 2024 03:15:42 GMT
+
+
+[Mon Oct 28 20:15:42 2024] New connection established
+[Mon Oct 28 20:15:42 2024] Connection closed for client
+[Mon Oct 28 20:16:06 2024] New connection established
+[Mon Oct 28 20:16:06 2024] Request: Method=HEAD, Path=/
+[Mon Oct 28 20:16:06 2024] Error: 400 Bad Request for path: /
+[Mon Oct 28 20:16:06 2024] Sending headers:
+HTTP/1.0 400 Bad Request
+Content-Type: text/html
+Connection: close
+Content-Length: 179
+Date: Tue, 29 Oct 2024 03:16:06 GMT
+
+
+[Mon Oct 28 20:16:06 2024] Connection closed for client
+[Mon Oct 28 20:16:45 2024] Request: Method=, Path=
+[Mon Oct 28 20:16:45 2024] Error: 400 Bad Request for path: 
+[Mon Oct 28 20:16:45 2024] Sending headers:
+HTTP/1.0 400 Bad Request
+Content-Type: text/html
+Connection: close
+Content-Length: 179
+Date: Tue, 29 Oct 2024 03:16:45 GMT
+
+
