@@ -1,4 +1,4 @@
-# Multithreaded Webserver - Distributed System 
+# Multithreaded Webserver - Distributed System
 
 ## Project Summary
 This project involves the development of a basic HTTP server in C for a distributed systems assignment. The server handles client connections, processes HTTP GET requests, and serves static files, including HTML pages (`index.html` and `info.html`), images, and videos. The server supports external video links and direct access to images or text files through URLs, while handling errors gracefully by serving specific error pages (`400.html`, `403.html`, `404.html`, and `500.html`). Logging features are implemented to track new connections, resource requests, permission issues, and connection closures. The project demonstrates fundamental concepts in socket programming, multithreading, and HTTP server functionality.
@@ -51,7 +51,7 @@ This project involves the development of a basic HTTP server in C for a distribu
 - The `info.html` page provides information and examples of images being served by the server to test media requests.
 
 ### 5. Image of Directly Loading an Image
-![Alt text](/outputs/directimage.png)
+![Alt text](/outputs/directImage.png)
 - This image shows the browser directly loading an image by accessing its specific path (`http://localhost:8000/assets/image.png`).
 
 ### 6. Image for Loading `sample.txt`
