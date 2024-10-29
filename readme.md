@@ -1,8 +1,4 @@
-# Harsh Zota
-
-### 07700000128
-
-# Distributed System Programming Assignment-1
+# Multithreaded Webserver - Distributed System 
 
 ## Project Summary
 This project involves the development of a basic HTTP server in C for a distributed systems assignment. The server handles client connections, processes HTTP GET requests, and serves static files, including HTML pages (`index.html` and `info.html`), images, and videos. The server supports external video links and direct access to images or text files through URLs, while handling errors gracefully by serving specific error pages (`400.html`, `403.html`, `404.html`, and `500.html`). Logging features are implemented to track new connections, resource requests, permission issues, and connection closures. The project demonstrates fundamental concepts in socket programming, multithreading, and HTTP server functionality.
